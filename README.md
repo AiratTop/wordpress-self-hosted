@@ -32,6 +32,7 @@ It is pre-configured to join a shared Docker network, allowing easy integration 
 
 3.  **Configure environment variables:**
     Create a `.env` file and specify your database credentials.
+    You can use my Open Source [password generator](https://pass.airat.top) to create a strong password.
 
 4.  **Start the services:**
     ```bash
